@@ -1,0 +1,8 @@
+{
+  "course-name": {
+    "repos": [{
+      "equipe": "House Atreides",
+      "url": "git@gitlab.com:atreides/house-atreides.git"
+    }]
+  }
+}
