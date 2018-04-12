@@ -38,7 +38,7 @@ def initializeEmptyReadme(repoSshUrl: str):
     
     
 if __name__ == "__main__":
-    with open('GLOO_mapping.json') as fd:
+    with open('mapping.json') as fd:
         mapping = json.loads(fd.read());
     for cours, repos in mapping.items():
         for repo in repos['repos']:
@@ -46,5 +46,5 @@ if __name__ == "__main__":
             url = createRepository(repo['equipe']);
             initializeEmptyReadme(url);
             repo['url'] = url;
-    with open('GLOO_mapping.json', 'w') as fd:
+    with open('mapping.json', 'w') as fd:
         json.dump(mapping,fd);
