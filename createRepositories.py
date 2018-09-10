@@ -3,7 +3,7 @@ import requests;
 import subprocess;
 import json;
 
-PRIVATE_TOKEN = "foobar";
+PRIVATE_TOKEN = "teAZauX_VTg7NyPoQFsu";
 
 def createRepository(name: str):
     url = "https://gitlab.com/api/v4/projects"
@@ -21,7 +21,6 @@ def clone(repoUrl, destinationDir, logFilePath):
     try:
         subprocess.run(["git","clone",repoUrl,destinationDir], stdout=logFile, stderr=logFile);
         subprocess.run(["git", "-C", destinationDir, "checkout", BRANCH], stdout=logFile, stderr=logFile);
-        writeBranch(destinationDir);
     except:
         pass
     print("Done cloning {}".format(repoUrl));
@@ -30,7 +29,7 @@ def initializeEmptyReadme(repoSshUrl: str):
     subprocess.run(["mkdir", "tmp"]);
     clone(repoSshUrl, "tmp", "log.txt");
     subprocess.run(["echo", """# Readme
-    vide"""], stdout=open("tmp/README.md", 'w'));
+    Modifiez le fichier README.md pour mettre à jour ce texte. Il s'agit d'un bon endroit pour donner des instructions à vos coéquipiers sur la manière de programmer, démarrer le projet, etc."""], stdout=open("tmp/README.md", 'w'));
     subprocess.run(["git", "-C", "tmp", "add", "-A"]);
     subprocess.run(["git", "-C", "tmp", "commit", "-m", 'Initial commit']);
     subprocess.run(["git", "-C", "tmp", "push", "-u", "origin", "master"]);

@@ -1,0 +1,6 @@
+Cloning into 'tmp'...
+ssh_exchange_identification: Connection closed by remote host
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.

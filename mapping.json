@@ -1,8 +1,250 @@
 {
-  "course-name": {
-    "repos": [{
-      "equipe": "House Atreides",
-      "url": "git@gitlab.com:atreides/house-atreides.git"
-    }]
-  }
+    "glo-2004": {
+        "repos": [
+            {
+                "equipe": "A18-GLO-Equipe1"
+            },
+            {
+                "equipe": "A18-GLO-Equipe2"
+            },
+            {
+                "equipe": "A18-GLO-Equipe3"
+            },
+            {
+                "equipe": "A18-GLO-Equipe4"
+            },
+            {
+                "equipe": "A18-GLO-Equipe5"
+            },
+            {
+                "equipe": "A18-GLO-Equipe6"
+            },
+            {
+                "equipe": "A18-GLO-Equipe7"
+            },
+            {
+                "equipe": "A18-GLO-Equipe8"
+            },
+            {
+                "equipe": "A18-GLO-Equipe9"
+            },
+            {
+                "equipe": "A18-GLO-Equipe10"
+            },
+            {
+                "equipe": "A18-GLO-Equipe11"
+            },
+            {
+                "equipe": "A18-GLO-Equipe12"
+            },
+            {
+                "equipe": "A18-GLO-Equipe13"
+            },
+            {
+                "equipe": "A18-GLO-Equipe14"
+            },
+            {
+                "equipe": "A18-GLO-Equipe15"
+            },
+            {
+                "equipe": "A18-GLO-Equipe16"
+            },
+            {
+                "equipe": "A18-GLO-Equipe17"
+            },
+            {
+                "equipe": "A18-GLO-Equipe18"
+            },
+            {
+                "equipe": "A18-GLO-Equipe19"
+            },
+            {
+                "equipe": "A18-GLO-Equipe20"
+            },
+            {
+                "equipe": "A18-GLO-Equipe21"
+            },
+            {
+                "equipe": "A18-GLO-Equipe22"
+            },
+            {
+                "equipe": "A18-GLO-Equipe23"
+            },
+            {
+                "equipe": "A18-GLO-Equipe24"
+            },
+            {
+                "equipe": "A18-GLO-Equipe25"
+            },
+            {
+                "equipe": "A18-GLO-Equipe26"
+            },
+            {
+                "equipe": "A18-GLO-Equipe27"
+            },
+            {
+                "equipe": "A18-GLO-Equipe28"
+            },
+            {
+                "equipe": "A18-GLO-Equipe29"
+            },
+            {
+                "equipe": "A18-GLO-Equipe30"
+            },
+            {
+                "equipe": "A18-GLO-Equipe31"
+            },
+            {
+                "equipe": "A18-GLO-Equipe32"
+            },
+            {
+                "equipe": "A18-GLO-Equipe33"
+            },
+            {
+                "equipe": "A18-GLO-Equipe34"
+            },
+            {
+                "equipe": "A18-GLO-Equipe35"
+            },
+            {
+                "equipe": "A18-GLO-Equipe36"
+            },
+            {
+                "equipe": "A18-GLO-Equipe37"
+            },
+            {
+                "equipe": "A18-GLO-Equipe38"
+            },
+            {
+                "equipe": "A18-GLO-Equipe39"
+            },
+            {
+                "equipe": "A18-GLO-Equipe40"
+            }
+        ]
+    },
+    "ift-2007": {
+        "repos": [
+            {
+                "equipe": "A18-IFT-Equipe1"
+            },
+            {
+                "equipe": "A18-IFT-Equipe2"
+            },
+            {
+                "equipe": "A18-IFT-Equipe3"
+            },
+            {
+                "equipe": "A18-IFT-Equipe4"
+            },
+            {
+                "equipe": "A18-IFT-Equipe5"
+            },
+            {
+                "equipe": "A18-IFT-Equipe6"
+            },
+            {
+                "equipe": "A18-IFT-Equipe7"
+            },
+            {
+                "equipe": "A18-IFT-Equipe8"
+            },
+            {
+                "equipe": "A18-IFT-Equipe9"
+            },
+            {
+                "equipe": "A18-IFT-Equipe10"
+            },
+            {
+                "equipe": "A18-IFT-Equipe11"
+            },
+            {
+                "equipe": "A18-IFT-Equipe12"
+            },
+            {
+                "equipe": "A18-IFT-Equipe13"
+            },
+            {
+                "equipe": "A18-IFT-Equipe14"
+            },
+            {
+                "equipe": "A18-IFT-Equipe15"
+            },
+            {
+                "equipe": "A18-IFT-Equipe16"
+            },
+            {
+                "equipe": "A18-IFT-Equipe17"
+            },
+            {
+                "equipe": "A18-IFT-Equipe18"
+            },
+            {
+                "equipe": "A18-IFT-Equipe19"
+            },
+            {
+                "equipe": "A18-IFT-Equipe20"
+            },
+            {
+                "equipe": "A18-IFT-Equipe21"
+            },
+            {
+                "equipe": "A18-IFT-Equipe22"
+            },
+            {
+                "equipe": "A18-IFT-Equipe23"
+            },
+            {
+                "equipe": "A18-IFT-Equipe24"
+            },
+            {
+                "equipe": "A18-IFT-Equipe25"
+            },
+            {
+                "equipe": "A18-IFT-Equipe26"
+            },
+            {
+                "equipe": "A18-IFT-Equipe27"
+            },
+            {
+                "equipe": "A18-IFT-Equipe28"
+            },
+            {
+                "equipe": "A18-IFT-Equipe29"
+            },
+            {
+                "equipe": "A18-IFT-Equipe30"
+            },
+            {
+                "equipe": "A18-IFT-Equipe31"
+            },
+            {
+                "equipe": "A18-IFT-Equipe32"
+            },
+            {
+                "equipe": "A18-IFT-Equipe33"
+            },
+            {
+                "equipe": "A18-IFT-Equipe34"
+            },
+            {
+                "equipe": "A18-IFT-Equipe35"
+            },
+            {
+                "equipe": "A18-IFT-Equipe36"
+            },
+            {
+                "equipe": "A18-IFT-Equipe37"
+            },
+            {
+                "equipe": "A18-IFT-Equipe38"
+            },
+            {
+                "equipe": "A18-IFT-Equipe39"
+            },
+            {
+                "equipe": "A18-IFT-Equipe40"
+            }
+        ]
+    }
 }

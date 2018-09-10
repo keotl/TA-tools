@@ -5,7 +5,7 @@ FILL_SEQUENTIALLY = True
 SHUFFLE_SUBMITTED_FORMS = True
 
 plages = {
-    "Samedi 15 septembre": 20,
+    "Samedi 15 septembre": 10,
     "Lundi 17 septembre (soir)": 20,
     "Mardi 18 septembre (soir)": 10,
     "Mercredi 19 septembre (soir)": 10,
